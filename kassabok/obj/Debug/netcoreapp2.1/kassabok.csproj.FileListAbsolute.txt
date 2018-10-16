@@ -1,0 +1,11 @@
+/Users/esteinman/Projects/kassabok/kassabok/bin/Debug/netcoreapp2.1/kassabok.deps.json
+/Users/esteinman/Projects/kassabok/kassabok/bin/Debug/netcoreapp2.1/kassabok.runtimeconfig.json
+/Users/esteinman/Projects/kassabok/kassabok/bin/Debug/netcoreapp2.1/kassabok.runtimeconfig.dev.json
+/Users/esteinman/Projects/kassabok/kassabok/bin/Debug/netcoreapp2.1/kassabok.dll
+/Users/esteinman/Projects/kassabok/kassabok/bin/Debug/netcoreapp2.1/kassabok.pdb
+/Users/esteinman/Projects/kassabok/kassabok/obj/Debug/netcoreapp2.1/kassabok.csprojAssemblyReference.cache
+/Users/esteinman/Projects/kassabok/kassabok/obj/Debug/netcoreapp2.1/kassabok.csproj.CoreCompileInputs.cache
+/Users/esteinman/Projects/kassabok/kassabok/obj/Debug/netcoreapp2.1/kassabok.AssemblyInfoInputs.cache
+/Users/esteinman/Projects/kassabok/kassabok/obj/Debug/netcoreapp2.1/kassabok.AssemblyInfo.cs
+/Users/esteinman/Projects/kassabok/kassabok/obj/Debug/netcoreapp2.1/kassabok.dll
+/Users/esteinman/Projects/kassabok/kassabok/obj/Debug/netcoreapp2.1/kassabok.pdb
